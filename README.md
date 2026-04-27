@@ -2,9 +2,6 @@
 
 Welcome to my personal portfolio website!
 
-## 🚀 Live Demo
-👉  https://kapilneha.github.io/Digital_portfolio/
-
 ## 📌 About
 This is my personal portfolio where I showcase my projects, skills, and achievements.
 
