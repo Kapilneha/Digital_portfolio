@@ -17,8 +17,8 @@ This is my personal portfolio where I showcase my projects, skills, and achievem
 - JavaScript
 
 ## 📂 Projects Included
-- AR Hand Tracking Project
-- (Add more if you have)
+- Federated causal discovery - privacy preserving inference across distributed health networks
+- Safe trade - A stock recommender
 
 ## 👤 Author
 Neha Kapil
